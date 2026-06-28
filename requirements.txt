@@ -11,7 +11,7 @@ pytz
 aiohttp
 telegraph
 pymediainfo-pyrofork
-pyromod
+pyromod==1.4
 
 # Other tools
 opencv-python-headless==4.8.1.78
