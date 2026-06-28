@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = GSTART_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
+     START_TXT = GSTART_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
 
 HEY {mention} , GOOD MORNING ☀️
 
