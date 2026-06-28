@@ -1,59 +1,52 @@
 class script(object):
-     START_TXT = GSTART_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
+         START_TXT = GSTART_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
 
 HEY {mention} , GOOD MORNING ☀️
 
 🤖 I AM {bot} , THE MOST POWERFUL AUTO FILTER BOT 🎬
 
 ✨ JOIN OUR MAIN CHANNEL TO GET LATEST MOVIES AND UPDATES 👇
-👉 https://t.me/KejoCinemas1"""      
-   
-   HELP_TXT = """<b>
-    
-✨ ʜᴏᴡ ᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴅʀᴀᴍᴀꜱ & ᴍᴏᴠɪᴇꜱ ✨  
+👉 https://t.me/KejoCinemas1"""
 
-1️⃣ ꜱᴇᴀʀᴄʜ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ᴏɴ ɢᴏᴏɢʟᴇ.  
-2️⃣ ꜱᴇɴᴅ ᴛʜᴇ ɴᴀᴍᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.  
-3️⃣ ᴜꜱᴇ ᴛʜɪꜱ ꜰᴏʀᴍᴀᴛ:  
+    HELP_TXT = """<b>🍿 HOW TO REQUEST DRAMAS & MOVIES 🍿
 
-📌 ꜰᴏʀ ꜱᴇʀɪᴇꜱ:  
-➤ ᴅʀᴀᴍᴀ ɴᴀᴍᴇ + S01 (ꜰᴏʀ ꜱᴇᴀꜱᴏɴ 1, ᴄʜᴀɴɢᴇ ꜰᴏʀ ᴏᴛʜᴇʀꜱ)  
+1️⃣ SEARCH THE CORRECT NAME ON GOOGLE.
+2️⃣ SEND THE NAME IN THE GROUP.
+3️⃣ USE THIS FORMAT:
 
-📌 ꜰᴏʀ ʜɪɴᴅɪ ᴅʀᴀᴍᴀꜱ:  
-➤ ᴅʀᴀᴍᴀ ɴᴀᴍᴇ + ʜɪɴᴅɪ  
+📌 FOR SERIES:
+➤ DRAMA NAME + S01 (FOR SEASON 1, CHANGE FOR OTHERS)
 
-📌 ꜰᴏʀ ᴍᴏᴠɪᴇꜱ:  
-➤ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ + ʏᴇᴀʀ (ᴇx: ᴊᴏᴋᴇʀ 2019)  
+📌 FOR HINDI DRAMAS:
+➤ DRAMA NAME + HINDI
 
-🚀 ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ!
-</b>"""
+📌 FOR MOVIES:
+➤ MOVIE NAME + YEAR (EX: JOKER 2019)
 
-    ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
-├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
-├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
-├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
-├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-├⍟ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a> 
-├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ1.4 [ ꜱᴛᴀʙʟᴇ ]
-╰───────────────⍟</b>"""
-    RESTART_TXT = """
-<b>{} Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+🚀 FOLLOW THESE STEPS!</b>"""
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code> v1.4 [ Sᴛᴀʙʟᴇ ]</code>
-</b>"""
+    ABOUT_TXT = """<b>╭───────────〔 MY DETAILS 〕─🤖
+├🌀 My Name : <a href=https://t.me/{}>{}</a>
+├🌀 Developer : <a href={}>OWNER</a>
+├🌀 Library : <a href='https://docs.pyrogram.org/'>PYROGRAM</a>
+├🌀 Language : <a href='https://www.python.org/download/releases/3.0/'>PYTHON 3</a>
+├🌀 Database : <a href='https://www.mongodb.com/'>MONGO DB</a>
+├🌀 Bot Server : <a href='https://heroku.com/'>HEROKU</a>
+├🌀 Build Status : v1.4 [ STABLE ]
+╰───────────────🍁</b>"""
 
-    CHANNELS = """
-<b>⚡ ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs ɪɴғᴏ ⚡ 
+    RESTART_TXT = """<b>{} Bot Restarted !
 
-▫ ᴀʟʟ ɴᴇᴡ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs.
-▫ ғᴀsᴛᴇsᴛ ʙᴏᴛs ᴀʀᴇ ᴀᴅᴅᴇᴅ.
-▫ ғʀᴇᴇ & ᴇᴀsʏ ᴛᴏ ᴜsᴇ.
-▫ 𝟸𝟺x𝟽 sᴇʀᴠɪᴄᴇs ᴀᴠᴀɪʟᴀʙʟᴇ.</b>"""
+📅 Date : <code>{}</code>
+⏰ Time : <code>{}</code>
+🌐 Timezone : <code>Asia/Kolkata</code>
+🛠️ Build Status: <code>v1.4 [ Stable ]</code></b>"""
 
+    CHANNELS = """<b>⚡ GROUPS & CHANNELS INFO ⚡
+
+• ALL NEW MOVIES & SERIES.
+• FASTEST BOTS ARE ADDED.
+• FREE & EASY TO USE.</b>"""
     MULTI_STATUS_TXT = """<b>🗃ᴜsᴇʀs ᴅᴀᴛᴀʙᴀsᴇ 🗃
 
 » ᴛᴏᴛᴀʟ ᴜsᴇʀs - {0}
