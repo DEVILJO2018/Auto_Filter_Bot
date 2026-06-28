@@ -1,6 +1,21 @@
 class script(object):
-         START_TXT = GSTART_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
+        START_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
 
+HEY {mention} , GOOD MORNING ☀️
+
+🤖 I AM {bot} , THE MOST POWERFUL AUTO FILTER BOT 🎬
+
+✨ JOIN OUR MAIN CHANNEL TO GET LATEST MOVIES AND UPDATES 👇
+👉 https://t.me/KejoCinemas1"""
+
+    GSTART_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
+
+HEY {mention} , GOOD MORNING ☀️
+
+🤖 I AM {bot} , THE MOST POWERFUL AUTO FILTER BOT 🎬
+
+✨ JOIN OUR MAIN CHANNEL TO GET LATEST MOVIES AND UPDATES 👇
+👉 https://t.me/KejoCinemas1"""
 HEY {mention} , GOOD MORNING ☀️
 
 🤖 I AM {bot} , THE MOST POWERFUL AUTO FILTER BOT 🎬
