@@ -1,5 +1,5 @@
 class script(object):
-           START_TXT = """
+       START_TXT = """
 🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
 
 HEY {mention} , GOOD MORNING ☀️
@@ -17,9 +17,9 @@ HEY {mention} , GOOD MORNING ☀️
 🤖 I AM {bot} , THE MOST POWERFUL AUTO FILTER BOT 🎬
 
 ✨ JOIN OUR MAIN CHANNEL TO GET LATEST MOVIES AND UPDATES 👇
-👉 https://t.me/KejoCinemas1"""
+👉 https://t.me/KejoCinemas1"""     
    
-    HELP_TXT = """<b>
+   HELP_TXT = """<b>
     
 ✨ ʜᴏᴡ ᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴅʀᴀᴍᴀꜱ & ᴍᴏᴠɪᴇꜱ ✨  
 
