@@ -1,24 +1,24 @@
 class script(object):
-    START_TXT = """    START_TXT = """🍿 <b>𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐊𝐄𝐉𝐎 𝐂𝐈𝐍𝐄𝐌𝐀𝐒 𝐁𝐎𝐓</b> 🍿
+           START_TXT = """
+🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
 
-𝐇𝐄𝐘 {mention} , 𝐆𝐎𝐎𝐃 𝐌𝐎𝐑𝐍𝐈𝐍𝐆 ☀️
+HEY {mention} , GOOD MORNING ☀️
 
-🤖 𝐈 𝐀𝐌 {bot} , 𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 🎬
+🤖 I AM {bot} , THE MOST POWERFUL AUTO FILTER BOT 🎬
 
-✨ 𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐓𝐎 𝐆𝐄𝐓 𝐋𝐀𝐓𝐄𝐒𝐓 𝐌𝐎𝐕𝐈𝐄𝐒 𝐀𝐍𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 👇
+✨ JOIN OUR MAIN CHANNEL TO GET LATEST MOVIES AND UPDATES 👇
 👉 https://t.me/KejoCinemas1"""
 
+    GSTART_TXT = """
+🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
 
-    GSTART_TXT = 🍿 <b>𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐊𝐄𝐉𝐎 𝐂𝐈𝐍𝐄𝐌𝐀𝐒 𝐁𝐎𝐓</b> 🍿
+HEY {mention} , GOOD MORNING ☀️
 
-𝐇𝐄𝐘 {mention} , 𝐆𝐎𝐎𝐃 𝐌𝐎𝐑𝐍𝐈𝐍𝐆 ☀️
+🤖 I AM {bot} , THE MOST POWERFUL AUTO FILTER BOT 🎬
 
-🤖 𝐈 𝐀𝐌 {bot} , 𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐉 𝐁𝐎𝐓 🎬
-
-✨ 𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐓𝐎 𝐆𝐄𝐓 𝐋𝐀𝐓𝐄𝐒𝐓 𝐌𝐎𝐕𝐈𝐄𝐒 𝐀𝐍𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 👇
+✨ JOIN OUR MAIN CHANNEL TO GET LATEST MOVIES AND UPDATES 👇
 👉 https://t.me/KejoCinemas1"""
-
-    
+   
     HELP_TXT = """<b>
     
 ✨ ʜᴏᴡ ᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴅʀᴀᴍᴀꜱ & ᴍᴏᴠɪᴇꜱ ✨  
