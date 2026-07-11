@@ -33,7 +33,7 @@ HEY {mention} , GOOD MORNING ☀️
 
 🚀 FOLLOW THESE STEPS!</b>"""
 
-    ABOUT_TXT = """<b>╭───────────〔 MY DETAILS 〕─🤖
+ ABOUT_TXT = """<b>╭───────────〔 MY DETAILS 〕─🤖
 ├🌀 My Name : <a href=https://t.me/{}>{}</a>
 ├🌀 Developer : <a href={}>OWNER</a>
 ├🌀 Library : <a href='https://docs.pyrogram.org/'>PYROGRAM</a>
