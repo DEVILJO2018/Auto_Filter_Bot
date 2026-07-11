@@ -1,5 +1,5 @@
 class script(object):
-        START_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
+ START_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
 
 HEY {mention} , GOOD MORNING ☀️
 
@@ -8,15 +8,15 @@ HEY {mention} , GOOD MORNING ☀️
 ✨ JOIN OUR MAIN CHANNEL TO GET LATEST MOVIES AND UPDATES 👇
 👉 https://t.me/KejoCinemas1"""
 
-    GSTART_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
+ GSTART_TXT = """🍿 <b>WELCOME TO KEJO CINEMAS BOT</b> 🍿
 
 HEY {mention} , GOOD MORNING ☀️
 
 🤖 I AM {bot} , THE MOST POWERFUL AUTO FILTER BOT 🎬
 
 ✨ JOIN OUR MAIN CHANNEL TO GET LATEST MOVIES AND UPDATES 👇
-👉 https://t.me/KejoCinemas1"""
-    HELP_TXT = """<b>🍿 HOW TO REQUEST DRAMAS & MOVIES 🍿
+👉 https://t.me/KejoCinemas1"""  
+ HELP_TXT = """<b>🍿 HOW TO REQUEST DRAMAS & MOVIES 🍿
 
 1️⃣ SEARCH THE CORRECT NAME ON GOOGLE.
 2️⃣ SEND THE NAME IN THE GROUP.
