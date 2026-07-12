@@ -171,11 +171,11 @@ MOVIE NOT AVAILABLE REASON :
 3) MOVIE IS NOT AVAILABLE IN THE DATABASE REPORT TO ADMINS</b>"""
 
 
-    MVE_NT_FND = NOT_FOUND_TXT = """<b>😌 ᴛʜɪꜱ ᴍᴏᴠɪᴇ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.</b>
+MVE_NT_FND = NOT_FOUND_TXT = """<b>😌 ᴛʜɪꜱ ᴍᴏᴠɪᴇ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.</b>
 
 <blockquote>😌 यह ᴍᴏᴠɪᴇ मुझे ᴍᴇʀᴇ ᴅᴀᴛᴀʙᴀꜱᴇ में नहीं मिली।</blockquote>"""
 
-    ALREADY_AVAILABLE_TXT = """<b>ʜᴇʏ {},
+ALREADY_AVAILABLE_TXT = """<b>ʜᴇʏ {},
     
 ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴀᴠᴀɪʟᴀʙʟᴇ ✅
 
@@ -186,7 +186,7 @@ MOVIE NOT AVAILABLE REASON :
 
 📝 ꜱᴇᴀʀᴄʜ ʜᴇʀᴇ : 👇</b>"""
 
-    MAINTENANCE_TXT = """<b>🛑 ꜱᴇʀᴠɪᴄᴇ ᴜɴᴅᴇʀ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ 🛑</b>
+MAINTENANCE_TXT = """<b>🛑 ꜱᴇʀᴠɪᴄᴇ ᴜɴᴅᴇʀ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ 🛑</b>
 
 <b>ʜᴇʏ {}, ᴡᴇ ᴀʀᴇ ᴄᴜʀʀᴇɴᴛʟʏ ᴜᴘᴅᴀᴛɪɴɢ ᴏᴜʀ ꜱʏꜱᴛᴇᴍꜱ ᴛᴏ ꜱᴇʀᴠᴇ ʏᴏᴜ ʙᴇᴛᴛᴇʀ. ᴛʜᴇ ꜱᴇʀᴠɪᴄᴇ ɪꜱ ᴛᴇᴍᴘᴏʀᴀʀɪʟʏ ᴅɪꜱᴀʙʟᴇᴅ.</b>
 
